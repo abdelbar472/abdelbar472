@@ -5,7 +5,7 @@
 - 🔪 **I’m currently working on:** DevOps and Cloud technologies.<br>  
 - 🌱 **Learning**: **Ansible**, **Docker**, **Kubernetes**, **Terraform**, **GitHub Actions**, and **Linux**.<br>  
 - 💬 **Collaborating on:** Backend systems and UI/UX design projects.<br>  
-- 📧 **Reach me**: [k.abdelbar128@gmail.com](mailto:k.abdelbar128@gmail.com)
+- 📧 **Reach me**: [k.abdelbar128@gmail.com](mailto:k.abdelbar128@gmail.com)  
 
 ---
 
@@ -37,19 +37,66 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  
 ![Ansible](https://img.shields.io/badge/ansible-%23121011.svg?style=for-the-badge&logo=ansible&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### **Databases:**  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![ScyllaDB](https://img.shields.io/badge/ScyllaDB-%231D1D1D.svg?style=for-the-badge&logo=scylladb&logoColor=white)
+![ScyllaDB](https://img.shields.io/badge/ScyllaDB-%231D1D1D.svg?style=for-the-badge&logo=scylladb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **UI/UX Design:**  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![Wireframing](https://img.shields.io/badge/Wireframing-%233f4f75.svg?style=for-the-badge&logo=wireframe&logoColor=white)  
 
 ### **Tools & Platforms:**  
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/linux-%23121011.svg?style=for-the-badge&logo=linux&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+---
+
+### 💼 **Experience:**
+
+**DevOps Intern**  
+*Beltone Financial* | *July 2024 – Sept 2024*  
+- Participated in the Discover Internship Program, focusing on **infrastructure automation** and **networking**.  
+- Dockerized applications and managed Kubernetes clusters for efficient deployment.  
+- Optimized server performance through automation.
+
+**Personal Project: LAMP Stack with Docker**  
+- Built and Dockerized a **LAMP stack**, improving scalability and deployment speed.  
+- Automated deployment using **Docker Compose**, reducing manual configuration time.
+
+---
+
+### 📚 **Certifications:**
+- Dart/Flutter (2023)  
+- ITI UI/UX Certification (2022)  
+- Certificate of Internship – Beltone Financial (2024)
+
+---
+
+### 🎓 **Education:**
+
+**Obour Higher Institute for Computer Science**  
+*Bachelor's in Computer Science* | *2020 – Present*  
+Obour, Egypt  
+
+---
+
+### 🌍 **Languages:**
+- **English** (Fluent)  
+- **French** (Intermediate)  
+
+---
+
+### ❤️ **Volunteering:**
+
+**CDSC Core Team Member** | *Sept 2021*  
+- Coordinated events and developed **leadership skills** through logistics management.
 
 ---
 
