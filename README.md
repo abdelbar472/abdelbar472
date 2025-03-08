@@ -68,9 +68,11 @@ A real-time chat and team collaboration platform built with:
 ---
 
 ## 📚 **Certifications**
-- Dart/Flutter (2023)  
-- ITI UI/UX Certification (2022)  
-- Certificate of Internship – Beltone Financial (2024)
+- **ITI Full Stack Python** (2023)  
+- **Coach Academy Problem Solving** (2023)  
+- **Dart/Flutter** (2023)  
+- **ITI UI/UX Certification** (2022)  
+- **Certificate of Internship – Beltone Financial** (2024)  
 
 ---
 
@@ -89,3 +91,5 @@ Obour, Egypt
 ---
 
 ![Visit Count](https://visitcount.itsvg.in/api?id=abdelbar472&icon=0&color=0)
+
+<!-- Crafted with 💙 using GPRM (https://gprm.itsvg.in) -->
