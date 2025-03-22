@@ -2,15 +2,15 @@
 
 # 🚀 **DevOps & Backend Developer | Building Scalable Systems**
 
-I specialize in backend development, DevOps, and cloud infrastructure, focusing on building scalable and efficient systems.
+I specialize in backend development, DevOps, and cloud infrastructure, focusing on building scalable, real-time, and efficient systems.
 
 ---
 
 ## ✨ **About Me**
 
-- 🔥 **Currently Working On:** DevOps, cloud technologies, and scalable backend systems.
-- 📚 **Learning:** **Ansible**, **Docker**, **Kubernetes**, **Terraform**, **GitHub Actions**, and **Linux**.
-- 🤝 **Collaborating On:** Backend development and real-time systems.
+- 🔥 **Currently Working On:** Real-time systems, cloud infrastructure, and scalable backend architectures.
+- 📚 **Learning:** **Advanced DevOps practices**, **Cloud computing**, **System Design**, and **Security**.
+- 🤝 **Collaborating On:** Backend and real-time applications using **Django**, **FastAPI**, and **Node.js**.
 - 📧 **Reach Me:** [k.abdelbar128@gmail.com](mailto:k.abdelbar128@gmail.com)
 
 ---
@@ -23,36 +23,47 @@ I specialize in backend development, DevOps, and cloud infrastructure, focusing 
 
 # 💻 **Tech Stack**
 
-### **Backend Development**
+### **🔹 Backend Development**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### **DevOps & Cloud**
+### **🔹 DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  
 ![Ansible](https://img.shields.io/badge/ansible-%23121011.svg?style=for-the-badge&logo=ansible&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
 
-### **Databases**
+### **🔹 Databases**
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
 ![ScyllaDB](https://img.shields.io/badge/ScyllaDB-%231D1D1D.svg?style=for-the-badge&logo=scylladb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### **🔹 CI/CD & Monitoring**
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=Jenkins&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)  
 
 ---
 
 ## 🚀 **Projects**
 
-### **Galileo** *(In Progress)*
+### **🛠 Galileo** *(In Progress)*
 A real-time chat and team collaboration platform built with:
 - **Backend:** Django (Primary Backend), FastAPI (API Gateway)
 - **Real-time:** Node.js (WebSocket-based chat system)
 - **Database:** PostgreSQL & ScyllaDB
-- **DevOps:** Docker & Kubernetes
-
+- **DevOps:** Docker & Kubernetes  
+📌 **Planned Features:**
+- End-to-end encrypted chat  
+- Role-based team management  
+- Multi-platform support  
+- Web & mobile integrations  
 🔗 [GitHub Repository](https://github.com/abdelbar472/Galileo)
 
 ---
@@ -68,25 +79,25 @@ A real-time chat and team collaboration platform built with:
 ---
 
 ## 📚 **Certifications**
-- **ITI Full Stack Python** (2023)  
-- **Coach Academy Problem Solving** (2023)  
-- **Dart/Flutter** (2023)  
-- **ITI UI/UX Certification** (2022)  
-- **Certificate of Internship – Beltone Financial** (2024)  
+- 🏆 **ITI Full Stack Python** (2023)  
+- 🏆 **Coach Academy Problem Solving** (2023)  
+- 🏆 **Dart/Flutter** (2023)  
+- 🏆 **ITI UI/UX Certification** (2022)  
+- 🏆 **Certificate of Internship – Beltone Financial** (2024)  
 
 ---
 
 ## 🎓 **Education**
 
-**Obour Higher Institute for Computer Science**  
+📍 **Obour Higher Institute for Computer Science**  
 *Bachelor's in Computer Science* | *2020 – Present*  
-Obour, Egypt  
+📍 Obour, Egypt  
 
 ---
 
 ## 🌍 **Languages**
-- **English** (Fluent)  
-- **French** (Intermediate)  
+- 🏅 **English** (Fluent)  
+- 🏅 **French** (Intermediate)  
 
 ---
 
