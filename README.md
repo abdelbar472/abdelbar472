@@ -2,7 +2,7 @@
 
 # 🚀 **DevOps & Backend Developer | Building Scalable Systems**
 
-I specialize in backend development, DevOps, and cloud infrastructure, focusing on building scalable, real-time, and efficient systems.
+I specialize in backend development, DevOps, and cloud infrastructure, focusing on building scalable, real-time, and efficient systems, with an interest in data science.
 
 ---
 
@@ -17,6 +17,15 @@ I specialize in backend development, DevOps, and cloud infrastructure, focusing 
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
 </p>
+  <h3>Data Science & Machine Learning</h3>
+            
+   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+   <img src="https://img.shields.io/badge/Matplotlib-%23ff4300.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
 
 <h3>DevOps & Cloud</h3>
 <p>
