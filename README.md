@@ -36,6 +36,8 @@ I specialize in backend development, DevOps, and cloud infrastructure, focusing 
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
   <img src="https://img.shields.io/badge/ansible-%23121011.svg?style=for-the-badge&logo=ansible&logoColor=white">
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
 </p>
 
 ### **Databases**
@@ -61,7 +63,7 @@ A real-time chat and team collaboration platform built with:
 - **Backend:** Django (Primary Backend), FastAPI (API Gateway)
 - **Real-time Communication:** Node.js (WebSockets via Socket.IO)
 - **Database:** PostgreSQL & ScyllaDB
-- **DevOps:** Docker & Kubernetes  
+- **DevOps:** Docker, Kubernetes, Jenkins, Azure DevOps  
 
 📌 **Planned Features:**
 - End-to-end encrypted chat  
@@ -79,7 +81,8 @@ A real-time chat and team collaboration platform built with:
 *Beltone Financial* | *July 2024 – Sept 2024*  
 - Automated infrastructure deployment with **Terraform** & **Ansible**.  
 - Managed containerized applications using **Docker** & **Kubernetes**.  
-- Improved system performance through **CI/CD pipelines**.  
+- Implemented CI/CD pipelines with **Jenkins** & **Azure DevOps**.  
+- Improved system performance through advanced **CI/CD workflows**.  
 
 ---
 
