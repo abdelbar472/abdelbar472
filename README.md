@@ -9,7 +9,7 @@ I specialize in backend development, DevOps, and cloud infrastructure, focusing 
 ## ✨ **About Me**
 
 - 🔥 **Currently Working On:** Real-time systems, cloud infrastructure, and scalable backend architectures.
-- 📚 **Learning:** **Advanced DevOps practices**, **Cloud computing**, **Node.js**, **Go**, **MongoDB**, **WebSocket**,** Advanced DevOps practices**.
+- 📚 **Learning:** **Advanced DevOps practices**, **Cloud computing**, **Node.js**, **Go**, **MongoDB**, **WebSocket**,**Advanced DevOps practices**.
 - 🤝 **Collaborating On:** Backend and real-time applications using **Django**, **FastAPI**, and **Node.js**.
 - 📧 **Reach Me:** [k.abdelbar128@gmail.com](mailto:k.abdelbar128@gmail.com)
 
