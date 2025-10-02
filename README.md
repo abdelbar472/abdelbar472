@@ -103,7 +103,7 @@ A real-time chat and team collaboration platform built with:
 - Multi-platform support  
 - Web & mobile integrations  
 
-🔗 [GitHub Repository](https://github.com/abdelbar472/Galileo)
+🔗 [check the Repository](https://github.com/abdelbar472/galileo_open_sorce)
 
 ---
 
