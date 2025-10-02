@@ -1,6 +1,6 @@
-![Matrix GIF](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
-
 # 🚀 **DevOps & Backend Developer | Building Scalable Systems**
+
+![Matrix GIF](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 
 I specialize in backend development, DevOps, and cloud infrastructure, focusing on building scalable, real-time, and efficient systems. I also have a keen interest in data science.
 
@@ -66,6 +66,30 @@ I specialize in backend development, DevOps, and cloud infrastructure, focusing 
 
 ## 🚀 **Projects**
 
+### **🎶 Diaphragms** *(In Progress)*  
+A **Diaphragms aims to become the go-to platform for discovering and sharing music experiences:  
+- 🎧 Comment & review tracks  
+- 🎼 Explore genres & subgenres  
+- 🤝 Build music-focused communities  
+- 📜 Create and share curated lists  
+
+**Current Tech Stack:**  
+- **Backend:** Django  
+- **Database:** SQLite (temporary for development)  
+
+**Exploring Next Steps:**  
+- Evaluating **NoSQL databases** (ScyllaDB, MongoDB, etc.)  
+- Studying **vector databases** for a recommendation system  
+- Expanding features for **community interaction** and **music discovery**  
+
+📌 **Planned Features:**  
+- Track/album pages with community reviews  
+- User collections & playlists  
+- Intelligent recommendation engine  
+- Social features (comments, likes, follows) 
+
+---
+
 ### **🛠 Galileo** *(In Progress)*
 A real-time chat and team collaboration platform built with:
 - **Backend:** Django (Primary Backend), FastAPI (API Gateway)
@@ -105,7 +129,7 @@ A real-time chat and team collaboration platform built with:
 
 ## 🎓 **Education**
 📍 **Obour Higher Institute for Computer Science**  
-*Bachelor's in Computer Science* | *2020 – Present*  
+*Bachelor's in Computer Science* | *2021 – 2025*  
 📍 Obour, Egypt  
 
 ---
@@ -118,4 +142,4 @@ A real-time chat and team collaboration platform built with:
 
 ![Visit Count](https://visitcount.itsvg.in/api?id=abdelbar472&icon=0&color=0)
 
-<!-- Crafted with 💙 using GPRM (https://gprm.itsvg.in) -->
+<!-- Crafted with 💙 using GPRM -->
