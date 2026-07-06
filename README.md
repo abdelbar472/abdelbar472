@@ -1,15 +1,9 @@
 # 🚀 **DevOps & Backend Developer | Building Scalable Systems**
-
 ![Matrix GIF](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
-
 I specialize in backend development, DevOps, and cloud infrastructure, focusing on building scalable, real-time, and efficient systems with microservices architecture. I also have a keen interest in data science and machine learning.
-
 ---
-
 ## 💻 **Tech Stack**
-
 ### **Backend Development**
-
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
@@ -20,9 +14,7 @@ I specialize in backend development, DevOps, and cloud infrastructure, focusing 
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
-
 ### **Microservices & Communication**
-
 <p>
   <img src="https://img.shields.io/badge/gRPC-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/Protocol%20Buffers-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
@@ -30,9 +22,7 @@ I specialize in backend development, DevOps, and cloud infrastructure, focusing 
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white">
   <img src="https://img.shields.io/badge/REST%20API-%23009688.svg?style=for-the-badge">
 </p>
-
 ### **Data Science & Machine Learning**
-
 <p>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
@@ -42,9 +32,7 @@ I specialize in backend development, DevOps, and cloud infrastructure, focusing 
   <img src="https://img.shields.io/badge/Matplotlib-%23ff4300.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
 </p>
-
 ### **DevOps & Cloud**
-
 <p>
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
@@ -55,9 +43,7 @@ I specialize in backend development, DevOps, and cloud infrastructure, focusing 
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </p>
-
 ### **Databases & Caching**
-
 <p>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
@@ -67,29 +53,41 @@ I specialize in backend development, DevOps, and cloud infrastructure, focusing 
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Qdrant-%23DC382C.svg?style=for-the-badge&logo=qdrant&logoColor=white">
 </p>
-
 ### **Mobile & Other Technologies**
-
 <p>
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white">
 </p>
+---
+## 🚀 **Featured Projects**
+### **📚 Bookie** - *Book Recommendation & Social Reading Platform*
+Microservices-based system for intelligent book discovery, social reading, and personalized recommendations.
+
+**Tech Stack:**
+- **Backend:** FastAPI, gRPC, Protocol Buffers
+- **Databases:** PostgreSQL, Qdrant (vector search), Redis
+- **Architecture:** Independent services (Auth, User, Follow, Book, Social, RAG, Recommendation)
+
+**Key Features:**
+- ✅ Secure token validation via gRPC (no secret key distribution)
+- ✅ RAG-powered semantic search and book insights
+- ✅ Hybrid recommendations (vector similarity + user interactions)
+- ✅ Social features (follows, reviews, shelves, activity feeds)
+- ✅ Each service has its own database
+
+**Status**: Active Development
+
+🔗 [View Repository](https://github.com/abdelbar472/bookie) (Update link)
 
 ---
-
-## 🚀 **Featured Projects**
-
 ### **💬 Galileo** - *Real-Time Collaboration Platform*
-
 A production-ready microservices-based team collaboration and encrypted chat platform demonstrating modern backend architecture.
-
 **Tech Stack:**
 - **Backend:** Django, FastAPI, Node.js
 - **Databases:** PostgreSQL, ScyllaDB
 - **Real-Time:** WebSockets, Socket.IO
 - **DevOps:** Docker, Kubernetes, Jenkins, Azure DevOps
-
 **Key Features:**
 - ✅ Real-time messaging with WebSocket connections
 - ✅ End-to-end encrypted chat
@@ -97,112 +95,75 @@ A production-ready microservices-based team collaboration and encrypted chat pla
 - ✅ Multi-database strategy (PostgreSQL + ScyllaDB)
 - ✅ Full CI/CD pipeline implementation
 - ✅ Container orchestration with Kubernetes
-
 🔗 [View Repository](https://github.com/abdelbar472/galileoopensorce)
-
 ---
-
 ### **💰 Finance Tracker** - *gRPC Microservices Application*
-
 Exploring modern distributed systems with Go and gRPC for high-performance service communication.
-
 **Tech Stack:**
 - **Language:** Go (Golang)
 - **Communication:** gRPC, Protocol Buffers
 - **Gateway:** REST-to-gRPC conversion
-
 **Key Features:**
 - ✅ Client-server architecture with gRPC
 - ✅ Type-safe data serialization with Protocol Buffers
 - ✅ REST gateway for API compatibility
 - ✅ Demonstrates microservices communication patterns
-
 🔗 [View Repository](https://github.com/abdelbar472/finance)
-
 ---
-
 ### **🎶 Diaphragms** - *Music Discovery Platform*
-
 A community-driven music discovery and sharing platform with plans for AI-powered recommendations.
-
 **Current Tech Stack:**
 - **Backend:** Django
 - **Database:** SQLite (development)
-
 **Planned Enhancements:**
 - 🔄 Vector database integration (Qdrant) for semantic music search
 - 🔄 Recommendation system using ML models
 - 🔄 NoSQL database migration for scalability
 - 🔄 Social features (comments, likes, follows)
-
 **Features:**
 - Track and album reviews
 - Genre exploration
 - Community interactions
 - Curated playlists
-
 ---
-
 ### **📚 Book Recommendation System**
-
 ML-powered book recommendation engine exploring vector search and semantic similarity.
-
 **Tech Stack:**
 - **ML Framework:** scikit-learn, pandas
 - **Vector Database:** Qdrant (planned)
 - **Backend:** Python
-
 🔗 [View Repository](https://github.com/abdelbar472/book_recommendation_system)
-
 ---
-
 ## 💼 **Professional Experience**
-
-### **DevOps Intern**  
-**Beltone Financial** | *July 2024 – September 2024*  
-
+### **DevOps Intern**
+**Beltone Financial** | *July 2024 – September 2024*
 - Automated infrastructure deployment using **Terraform** and **Ansible**
 - Managed containerized applications with **Docker** and **Kubernetes**
 - Implemented CI/CD pipelines using **Jenkins** and **Azure DevOps**
 - Improved system performance through advanced CI/CD workflows
 - Collaborated with development teams to optimize deployment processes
-
 ---
-
 ## 📚 **Certifications**
-
 - 🏆 **gRPC in Go** - LinkedIn Learning (2025)
 - 🏆 ITI Full Stack Python Development (2023)
 - 🏆 Coach Academy Problem Solving (2023)
 - 🏆 Dart/Flutter Development (2023)
 - 🏆 ITI UI/UX Design (2022)
 - 🏆 Beltone Financial DevOps Internship (2024)
-
 ---
-
 ## 🎓 **Education**
-
-**Bachelor of Computer Science**  
-Obour Higher Institute for Computer Science | 2021 – 2025  
+**Bachelor of Computer Science**
+Obour Higher Institute for Computer Science | 2021 – 2025
 Obour, Egypt
-
 ---
-
 ## 🌍 **Languages**
-
 - 🇬🇧 **English:** Fluent
 - 🇫🇷 **French:** Intermediate
-
 ---
-
 ## 📫 **Get In Touch**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-abdelbar-397a00221)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelbar472)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.abdelbar128@gmail.com)
-
 ---
-
 ![Profile Views](https://visitcount.itsvg.in/api?id=abdelbar472&icon=0&color=0)
-
 *Building scalable systems, one microservice at a time* 🚀
