@@ -81,6 +81,23 @@ I specialize in backend development, DevOps, and cloud infrastructure, focusing 
 
 ## 🚀 **Featured Projects**
 
+### **🗺️ Archi** — *Code Architecture Mapper*
+**Local, fast, offline codebase visualization & architecture intelligence tool.** No LLM dependency. No cloud. Runs instantly on your machine.
+
+* **Key Features:**
+  * ✅ Multi-language support (Python AST, JavaScript/TypeScript, Go, Proto, and more)
+  * ✅ Rich architecture graphs: files, classes, methods, calls, imports, inheritance, DB tables
+  * ✅ Framework awareness (FastAPI, Django, React, gRPC, etc.)
+  * ✅ Automatic God Nodes & Communities detection
+  * ✅ Beautiful Obsidian export with rich connections
+  * ✅ Semantic search across your codebase
+* **Tech Stack:** Python · AST parsing · Graph analysis · Obsidian compatibility
+* **Quick Start:**
+  ```bash
+  git clone [https://github.com/abdelbar472/Archi.git](https://github.com/abdelbar472/Archi.git)
+  cd Archi
+  pip install -e .
+  archi /path/to/your/project
 ### **📚 Bookie** - *FastAPI Microservices Bookstore Platform*
 
 A production-ready microservices platform — 7 independent FastAPI services communicating over **gRPC**, each owning its own database, with no shared secrets or tables.
