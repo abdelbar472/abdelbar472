@@ -21,8 +21,15 @@ I specialize in backend development, DevOps, and cloud infrastructure, focusing 
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
 
-### **Microservices & Communication**
+### **Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
 
+### **Microservices & Communication**
 <p>
   <img src="https://img.shields.io/badge/gRPC-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/Protocol%20Buffers-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
