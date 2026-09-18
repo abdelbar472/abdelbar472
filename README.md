@@ -95,6 +95,27 @@ I specialize in backend development, DevOps, and cloud infrastructure, focusing 
 
 ## 🚀 **Featured Projects**
 
+## 💰 Loan Tracker — Personal Finance & Estate Management
+
+A personal-finance web app for tracking loans (lent/borrowed), multi-currency & gold support, bank accounts, and a full death-time successor handover system.
+
+### 🚀 Tech Stack
+
+`Go` · `Next.js 16` · `React 19` · `SQLite` · `JWT` · `Docker`
+
+### ✨ Key Features
+
+- ✅ Integer-based money handling (no floating point)
+- ✅ Multi-currency + Gold support with rate stamping
+- ✅ Smart netting between counterparties
+- ✅ Successor & death handover workflow (account freezing + estate management)
+- ✅ Inactivity escalation worker
+- ✅ Clean Go architecture (stdlib only, no web framework)
+
+### 🔗 Repository
+
+[View Repository](https://github.com/abdelbar472/loan_tracker)
+
 ### **🗺️ Archi** — *Code Architecture Mapper*
 **Local, fast, offline codebase visualization & architecture intelligence tool.** No LLM dependency. No cloud. Runs instantly on your machine.
 
@@ -185,17 +206,7 @@ Exploring modern distributed systems with Go and gRPC for high-performance servi
 
 ---
 
-💰 Loan Tracker - Personal Finance & Estate Management
-A personal-finance web app for tracking loans (lent/borrowed), multi-currency & gold support, bank accounts, and a full death-time successor handover system.
-Tech Stack: Go · Next.js 16 · React 19 · SQLite · JWT · Docker
-Key Features:
 
-✅ Integer-based money handling (no floating point)
-✅ Multi-currency + Gold support with rate stamping
-✅ Smart netting between counterparties
-✅ Successor & death handover workflow (account freezing + estate management)
-✅ Inactivity escalation worker
-✅ Clean Go architecture (stdlib only, no web framework)
 
 🔗 View Repository
 
