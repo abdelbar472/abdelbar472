@@ -185,25 +185,19 @@ Exploring modern distributed systems with Go and gRPC for high-performance servi
 
 ---
 
-### **🎶 Diaphragms** - *Music Discovery Platform*
+💰 Loan Tracker - Personal Finance & Estate Management
+A personal-finance web app for tracking loans (lent/borrowed), multi-currency & gold support, bank accounts, and a full death-time successor handover system.
+Tech Stack: Go · Next.js 16 · React 19 · SQLite · JWT · Docker
+Key Features:
 
-A community-driven music discovery and sharing platform with plans for AI-powered recommendations.
+✅ Integer-based money handling (no floating point)
+✅ Multi-currency + Gold support with rate stamping
+✅ Smart netting between counterparties
+✅ Successor & death handover workflow (account freezing + estate management)
+✅ Inactivity escalation worker
+✅ Clean Go architecture (stdlib only, no web framework)
 
-**Current Tech Stack:**
-- **Backend:** Django
-- **Database:** SQLite (development)
-
-**Planned Enhancements:**
-- 🔄 Vector database integration (Qdrant) for semantic music search
-- 🔄 Recommendation system using ML models
-- 🔄 NoSQL database migration for scalability
-- 🔄 Social features (comments, likes, follows)
-
-**Features:**
-- Track and album reviews
-- Genre exploration
-- Community interactions
-- Curated playlists
+🔗 View Repository
 
 ---
 
