@@ -34,7 +34,6 @@ I specialize in backend development, DevOps, and cloud infrastructure, focusing 
 <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white">
 <img src="https://img.shields.io/badge/LangGraph-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white">
 <img src="https://img.shields.io/badge/Groq-FF4D00?style=for-the-badge&logo=groq&logoColor=white">
-<img src="https://img.shields.io/badge/Qdrant-%23DC382C.svg?style=for-the-badge&logo=qdrant&logoColor=white">
 </p>
 
 ### **Microservices & Communication**
