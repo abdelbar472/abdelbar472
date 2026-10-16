@@ -38,6 +38,7 @@ I specialize in backend development, DevOps, and cloud infrastructure, focusing 
 
 ### **Microservices & Communication**
 <p>
+  <img src="https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/gRPC-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/Protocol%20Buffers-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/WebSockets-%23FFA500.svg?style=for-the-badge">
@@ -116,6 +117,8 @@ A personal-finance web app for tracking loans (lent/borrowed), multi-currency & 
 
 [View Repository](https://github.com/abdelbar472/loan_tracker)
 
+---
+
 ### **🗺️ Archi** — *Code Architecture Mapper*
 **Local, fast, offline codebase visualization & architecture intelligence tool.** No LLM dependency. No cloud. Runs instantly on your machine.
 
@@ -129,10 +132,14 @@ A personal-finance web app for tracking loans (lent/borrowed), multi-currency & 
 * **Tech Stack:** Python · AST parsing · Graph analysis · Obsidian compatibility
 * **Quick Start:**
   ```bash
-  git clone [https://github.com/abdelbar472/Archi.git](https://github.com/abdelbar472/Archi.git)
+  git clone https://github.com/abdelbar472/Archi.git
   cd Archi
   pip install -e .
   archi /path/to/your/project
+  ```
+
+---
+
 ### **📚 Bookie** - *FastAPI Microservices Bookstore Platform*
 
 A production-ready microservices platform — 7 independent FastAPI services communicating over **gRPC**, each owning its own database, with no shared secrets or tables.
@@ -206,9 +213,27 @@ Exploring modern distributed systems with Go and gRPC for high-performance servi
 
 ---
 
+### **⚡ Kafka Demo** - *Event-Driven Microservices*
 
+Hands-on Kafka project: Order Service (producer) publishes `order.created` events; Notification and Analytics services consume them independently with different consumer groups.
 
-🔗 View Repository
+**Architecture:**
+```
+Order Service (8000)  →  Kafka  →  Notification Service (8001)
+                              ↘  Analytics Service (8003)
+```
+
+**Tech Stack:** FastAPI · aiokafka · SQLAlchemy · Docker (KRaft Kafka) · SQLite
+
+**Key Features:**
+- ✅ Producer / Consumer pattern with real FastAPI services
+- ✅ Independent consumer groups (each service gets all messages)
+- ✅ Idempotent processing via `event_id`
+- ✅ Recovery test: consumer down → produce → consumer up → catch-up
+- ✅ Analytics: summary, top products, top customers
+- ✅ Bulk + stress test scripts and full Postman collection
+
+🔗 [View Repository](https://github.com/abdelbar472/kafka-demo)
 
 ---
 
@@ -251,7 +276,7 @@ Obour, Egypt
 
 ---
 
-## 📫 **Get In Touch**
+## 📬 **Get In Touch**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-abdelbar-397a00221)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelbar472)
